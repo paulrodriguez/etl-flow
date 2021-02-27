@@ -10,6 +10,9 @@ dependency-injector = "*"
 pyaml = "*"
 gspread = "*"
 fire = "*"
+pillow = "*"
+optimize-images = "*"
+pyyaml = "*"
 
 [requires]
 python_version = "3.7"

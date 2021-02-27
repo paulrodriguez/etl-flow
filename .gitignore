@@ -1,1 +1,5 @@
 /.config
+/input
+/output
+/.workflows/*.yml
+/**/.DS_Store
