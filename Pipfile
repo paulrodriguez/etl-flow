@@ -13,6 +13,7 @@ fire = "*"
 pillow = "*"
 optimize-images = "*"
 pyyaml = "*"
+pdoc = "*"
 
 [requires]
 python_version = "3.7"
